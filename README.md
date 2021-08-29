@@ -1,1 +1,2 @@
-Problem statement is defined in the file "Bungee Coding Round.docx". Please refer to this file. 
+Install pandas library if not installed into the current environment
+Using pip install pandas
